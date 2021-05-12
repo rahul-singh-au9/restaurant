@@ -1,11 +1,14 @@
 # MERN Stack - Restaurant
 > Restaurant website built with the MERN stack with React Context API for state management, pure CSS for style
 
-# step 1 --> cd restaurant
+# step 1 --> 
+cd restaurant
 
-# step 2 --> ## Install dependencies for server ---> ### `npm install` ---> open terminal in same directory (restaurant) --> ### `npm run server` ---> ### Server runs on http://localhost:5000
+# step 2 --> 
+## Install dependencies for server ---> ### `npm install` ---> open terminal in same directory (restaurant) --> ### `npm run server` ---> ### Server runs on http://localhost:5000
 
-# step 3 --> ## Install dependencies for client ---> ### cd client ---> `npm install` --->  open terminal in same directory (client) --> ### `npm start` --->  ### client runs on http://localhost:3000
+# step 3 --> 
+## Install dependencies for client ---> ### cd client ---> `npm install` --->  open terminal in same directory (client) --> ### `npm start` --->  ### client runs on http://localhost:3000
 
 # to login inside the application use credentials --->
 ## id --> user1@gmail.com , password --> 123456
